@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+#N1{background-color:#CCC;}
+#N3{ text-align:center;
+     Font-family:Georgia, "Times New Roman", Times, serif;
+     font-size:20px;
+     border-style:solid;
+     font-weight:bold;
+    background-color: honeydew;
+}
+ table tr td a{
+ 	text-decoration:none;
+ 	color:#F93;}
+ table tr td a:hover{
+ 	color:#06F;
+ 	text-decoration:underline;}
+
+p{text-indent:20px;
+font-size:30px;
+color: black}
+marquee{font-family:"Times New Roman", Times, serif;
+font-size:50px;
+color:#F00;
+text-align:center;	}

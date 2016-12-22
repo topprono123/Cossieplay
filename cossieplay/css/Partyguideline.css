@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#N1{background-color:#CCC;}
+#N3{ text-align:center;
+     Font-family:Georgia, "Times New Roman", Times, serif;
+     font-size:20px;
+     border-style:solid;
+     font-weight:bold;
+    background-color: honeydew;
+}
+ table tr td a{
+ 	text-decoration:none;
+ 	color:#F93;}
+ table tr td a:hover{
+ 	color:#06F;
+ 	text-decoration:underline;}
+
+h1{font-family:"Times New Roman", Times, serif;
+font-size:70px;
+font-weight:bold;
+text-align:center;
+color:#F00;
+	}
+ table tr td p{font-family:Georgia, "Times New Roman", Times, serif;
+font-size:40px;
+text-indent:20px;
+color:#F39;
+}	
+marquee{font-family:"Times New Roman", Times, serif;
+font-size:50px;
+color:#F00;
+text-align:center;	}

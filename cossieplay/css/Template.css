@@ -1,0 +1,17 @@
+@charset "utf-8";
+@import url("Index.css");
+/* CSS Document */
+
+#N1{background-color:#CCC;}
+#N3{ text-align:center;
+     Font-family:Georgia, "Times New Roman", Times, serif;
+     font-size:20px;
+     border-style:solid;
+     font-weight:bold;
+    }
+ table tr td a{
+ 	text-decoration:none;
+ 	color:#F93;}
+ table tr td a:hover{
+ 	color:#06F;
+ 	text-decoration:underline;}

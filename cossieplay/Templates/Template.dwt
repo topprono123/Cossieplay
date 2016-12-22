@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cossieplay</title>
+<!-- TemplateEndEditable -->
+<link href="../css/Template.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="banner">
+	<table width="988" ID="N1" align="center">
+<tr>
+<td><img src="../images/images.jpg" width="1000" height="165" /> </td>
+</tr>
+</table>
+<table width="988" ID="N3" align="center">
+<tr>
+<td width="100" ><a href="Home.html">Home</a></td>
+<td width="129" ><a href="AboutUs.html">About Us</a></td>
+<td width="197" ><a href="Announcements.html">Announcements</a></td>
+<td width="187" ><a href="PartyGuidelines.html">Party Guidelines</a></td>
+<td width="97"><a href="prices.html">Prices</a></td>
+<td width="110" ><a href="SignUp.html">Sign-Up</a></td>
+<td width="130" ><a href="Contact.html">Contact Us</a></td>
+</tr>
+</table>
+</div>
+<div id="body"><!-- TemplateBeginEditable name="EditRegion1" -->body<!-- TemplateEndEditable --></div>
+</body>
+</html>

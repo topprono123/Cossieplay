@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#N1{background-color:#CCC;}
+#N3{ text-align:center;
+     Font-family:Georgia, "Times New Roman", Times, serif;
+     font-size:20px;
+     border-style:solid;
+     font-weight:bold;
+    background-color: honeydew;
+}
+ table tr td a{
+ 	text-decoration:none;
+ 	color:#F93;}
+ table tr td a:hover{
+ 	color:#06F;
+ 	text-decoration:underline;}
+
+h1{font-family:"Times New Roman", Times, serif;
+font-size:50px;
+text-align:center;
+color:#F00;}
+p{font-size:30px;
+text-align:center;
+}
+#N4{font-size:30px;
+color:#C30;
+	}
+table tr td form input{wirth:10px;
+	font-size:30px;}
+a{ text-align:center;}
+a form input{
+	font-size:30px;
+	}
+a form input:hover{
+	text-decoration:underline;
+	color:#F00;}
+marquee{font-family:"Times New Roman", Times, serif;
+font-size:50px;
+color:#F00;
+text-align:center;	}
